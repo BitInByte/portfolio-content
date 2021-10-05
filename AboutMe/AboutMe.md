@@ -3,7 +3,7 @@ title: 'About Me'
 resume: 'resume.pdf'
 ---
 
-### About Me
+## About Me
 
 Hello, nice to meet you!
 
