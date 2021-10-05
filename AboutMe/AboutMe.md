@@ -3,6 +3,8 @@ title: 'About Me'
 resume: 'resume.pdf'
 ---
 
+### About Me
+
 Hello, nice to meet you!
 
 I'm <Marker>João Pedro</Marker> and I'm a developer from Portugal with a big passion on learning new stuff!
