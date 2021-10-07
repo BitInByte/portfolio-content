@@ -6,7 +6,7 @@ title: 'Stack'
 
 <!-- **Languages and frameworks** -->
 
-###Languages
+### Languages
 
 - HTML5
 - CSS3
@@ -17,9 +17,11 @@ title: 'Stack'
 - Dart
 - Latex
 
+---
+
 <!-- **Technologies** -->
 
-###Technologies & Frameworks
+### Technologies & Frameworks
 
 - Angular
 - VueJS
@@ -36,9 +38,11 @@ title: 'Stack'
 - Netlify
 - jQuery
 
+---
+
 <!-- **Backend** -->
 
-###Backend
+### Backend
 
 - Firebase
 - SQL
@@ -46,9 +50,11 @@ title: 'Stack'
 - GraphQl
 - Spring
 
+---
+
 <!-- **Software & editors** -->
 
-###Software & editors
+### Software & editors
 
 - Neovim
 - Vim
@@ -57,9 +63,11 @@ title: 'Stack'
 - Intellij
 - MSTeams
 
+---
+
 <!-- **BrainStorming tools:** -->
 
-###BrainStorming tools:
+### BrainStorming tools:
 
 - Trello
 - Lucidchart
