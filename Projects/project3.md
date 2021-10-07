@@ -2,7 +2,7 @@
 title: 'My Weather App With City Clock'
 sourceLink: 'https://github.com/BitInByte/WeatherClockApplication'
 liveLink: 'https://weatherapp-758e4.web.app/'
-imagePath: './project3.png'
+<!-- imagePath: './project3.png' -->
 projectNr: 3
 keyword: 'projects'
 ---
