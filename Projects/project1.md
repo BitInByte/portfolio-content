@@ -2,10 +2,12 @@
 title: 'Binary Clock'
 sourceLink: 'https://github.com/BitInByte/BinaryWatch'
 liveLink: 'https://bitinbyte.github.io/BinaryWatch/'
-image: 'Projects/project1.png'
+image: 'project1.png'
 projectNr: 1
 keyword: 'projects'
 ---
+
+### Binary Clock
 
 This project was the introduction of **nodeJs** and some tools provided by it.
 

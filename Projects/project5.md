@@ -2,10 +2,12 @@
 title: 'App management'
 sourceLink: 'https://github.com/BitInByte/To-doProjectsManagement'
 liveLink: 'https://todo-6eb5f.firebaseapp.com/'
-image: 'Projects/project5.png'
+image: 'project5.png'
 projectNr: 5
 keyword: 'projects'
 ---
+
+### App Management
 
 The **biggest** project I've ever made.
 

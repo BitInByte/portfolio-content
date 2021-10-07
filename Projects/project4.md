@@ -2,10 +2,12 @@
 title: 'My Personal Portfolio'
 sourceLink: 'https://github.com/BitInByte/GatsbyTypescriptPortfolio'
 liveLink: 'https://www.jopecodes.com'
-image: 'Projects/project4.png'
+image: 'project4.png'
 projectNr: 4
 keyword: 'projects'
 ---
+
+### My Personal Portfolio
 
 This was one of my wishes since I started my journey earlier this year. I wanted to have something mine where I could expose all of my projects to everyone, talking a bit about me and about all of my projects. For that I just used **Gatsby** based on **React** to create a static website that could be faster and with all of my own information. My last learning was **Typescript** so I thought that this project could be a good idea to implement it as well, so it is strongly typed with a lot of help from **IDE** based on the types that **Typescript** and I inferred.
 
