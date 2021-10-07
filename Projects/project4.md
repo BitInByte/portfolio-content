@@ -2,7 +2,7 @@
 title: 'My Personal Portfolio'
 sourceLink: 'https://github.com/BitInByte/GatsbyTypescriptPortfolio'
 liveLink: 'https://www.jopecodes.com'
-image: './project4.png'
+imagePath: './project4.png'
 projectNr: 4
 keyword: 'projects'
 ---
