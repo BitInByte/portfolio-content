@@ -4,6 +4,7 @@ sourceLink: 'https://github.com/BitInByte/BinaryWatch'
 liveLink: 'https://bitinbyte.github.io/BinaryWatch/'
 projectNr: 1
 keyword: 'projects'
+remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project1.png?raw=true
 ---
 
 ### Binary Clock

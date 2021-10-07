@@ -4,6 +4,7 @@ sourceLink: 'https://github.com/BitInByte/GatsbyTypescriptPortfolio'
 liveLink: 'https://www.jopecodes.com'
 projectNr: 4
 keyword: 'projects'
+remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project4.png?raw=true
 ---
 
 ### My Personal Portfolio

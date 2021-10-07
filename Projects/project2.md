@@ -4,6 +4,7 @@ sourceLink: 'https://github.com/BitInByte/MyMovieDataBaseLibrary'
 liveLink: 'https://bitinbyte.github.io/MyMovieDataBaseLibrary/'
 projectNr: 2
 keyword: 'projects'
+remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project2.png?raw=true
 ---
 
 ### My Movie DataBase Library
