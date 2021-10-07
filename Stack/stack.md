@@ -65,7 +65,7 @@ title: 'Stack'
 
 <!-- **BrainStorming tools:** -->
 
-### BrainStorming tools:
+### BrainStorming tools
 
 - Trello
 - Lucidchart
