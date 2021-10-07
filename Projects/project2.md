@@ -2,7 +2,7 @@
 title: 'My Movie DataBase Library'
 sourceLink: 'https://github.com/BitInByte/MyMovieDataBaseLibrary'
 liveLink: 'https://bitinbyte.github.io/MyMovieDataBaseLibrary/'
-image: 'project2.png'
+image: './project2.png'
 projectNr: 2
 keyword: 'projects'
 ---

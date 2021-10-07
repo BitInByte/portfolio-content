@@ -2,7 +2,7 @@
 title: 'TicTacToe Game'
 sourceLink: 'https://github.com/BitInByte/TicTacToe'
 liveLink: 'https://bitinbyte.github.io/TicTacToe/'
-image: 'project0.png'
+image: './project0.png'
 projectNr: 0
 keyword: 'projects'
 ---
