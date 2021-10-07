@@ -29,8 +29,6 @@ title: 'Stack'
 - Flutter
 - Gatsby
 - Gridsome
-  <!-- - Webpack -->
-  <!-- - Babel -->
 - SASS
 - Redux
 - RxJS
