@@ -2,7 +2,6 @@
 title: 'Binary Clock'
 sourceLink: 'https://github.com/BitInByte/BinaryWatch'
 liveLink: 'https://bitinbyte.github.io/BinaryWatch/'
-<!-- imagePath: './project1.png' -->
 projectNr: 1
 keyword: 'projects'
 ---

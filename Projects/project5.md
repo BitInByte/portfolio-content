@@ -2,7 +2,6 @@
 title: 'App management'
 sourceLink: 'https://github.com/BitInByte/To-doProjectsManagement'
 liveLink: 'https://todo-6eb5f.firebaseapp.com/'
-<!-- imagePath: './project5.png' -->
 projectNr: 5
 keyword: 'projects'
 ---
