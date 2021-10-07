@@ -4,6 +4,7 @@ sourceLink: 'https://github.com/BitInByte/TicTacToe'
 liveLink: 'https://bitinbyte.github.io/TicTacToe/'
 projectNr: 0
 keyword: 'projects'
+remoteImage: https://raw.githubusercontent.com/BitInByte/portfolio-content/main/Projects/project0.png
 ---
 
 ### TicTacToe Game
