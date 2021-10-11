@@ -5,6 +5,7 @@ liveLink: 'https://bitinbyte.github.io/BinaryWatch/'
 projectNr: 1
 keyword: 'projects'
 remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project1.png?raw=true
+stack: ['SASS', 'JavaScript']
 ---
 
 ### Binary Clock
