@@ -5,7 +5,7 @@ liveLink: 'https://bitinbyte.github.io/TicTacToe/'
 projectNr: 0
 keyword: 'projects'
 remoteImage: https://raw.githubusercontent.com/BitInByte/portfolio-content/main/Projects/project0.png
-stack: ['JavaSript', 'CSS']
+stack: ['JavaSript', 'CSS'];
 ---
 
 ### TicTacToe Game

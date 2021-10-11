@@ -5,7 +5,7 @@ liveLink: 'https://www.jopecodes.com'
 projectNr: 4
 keyword: 'projects'
 remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project4.png?raw=true
-stack: ['Typescript', 'React', 'Gatsby', 'Markdown']
+stack: ['Typescript', 'React', 'Gatsby', 'Markdown'];
 ---
 
 ### My Personal Portfolio

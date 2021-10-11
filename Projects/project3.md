@@ -5,7 +5,7 @@ liveLink: 'https://weatherapp-758e4.web.app/'
 projectNr: 3
 keyword: 'projects'
 remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project3.png?raw=true
-['SASS', 'Javascript', 'Webpack']
+['SASS', 'Javascript', 'Webpack'];
 ---
 
 ### My Wether App With City Clock

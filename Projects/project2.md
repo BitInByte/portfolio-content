@@ -5,7 +5,7 @@ liveLink: 'https://bitinbyte.github.io/MyMovieDataBaseLibrary/'
 projectNr: 2
 keyword: 'projects'
 remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project2.png?raw=true
-stack: ['SASS', 'Javascript', 'Webpack']
+stack: ['SASS', 'Javascript', 'Webpack'];
 ---
 
 ### My Movie DataBase Library
