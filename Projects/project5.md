@@ -5,7 +5,10 @@ liveLink: 'https://todo-6eb5f.firebaseapp.com/'
 projectNr: 5
 keyword: 'projects'
 remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project5.png?raw=true
-stack: ['React', 'SASS', 'firebase'];
+stack:
+  - 'React'
+  - 'SASS'
+  - 'Firebase'
 ---
 
 ### App Management
