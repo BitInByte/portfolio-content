@@ -11,8 +11,6 @@ stack:
   - 'Firebase'
 ---
 
-### App Management
-
 The **biggest** project I've ever made.
 
 This project was implemented from scratch. I've started creating some **diagrams** and designing what the app should look like.
