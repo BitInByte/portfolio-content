@@ -30,6 +30,7 @@ title: 'Stack'
 - Gatsby
 - Gridsome
 - SASS
+- TailwindCSS
 - Redux
 - RxJS
 - NodeJS
