@@ -1,6 +1,11 @@
 ---
 title: 'About Me'
 resume: 'resume.pdf'
+github: 'https://github.com/BitInByte'
+linkedin: 'https://www.linkedin.com/in/jopecodes'
+instagram: 'https://instagram.com/bitinbyte'
+twitter: 'https://twitter.com/BitInByte2'
+email: 'contact@jopecodes.com'
 ---
 
 ## About Me
