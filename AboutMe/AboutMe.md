@@ -6,6 +6,7 @@ linkedin: 'https://www.linkedin.com/in/jopecodes'
 instagram: 'https://instagram.com/bitinbyte'
 twitter: 'https://twitter.com/BitInByte2'
 email: 'contact@jopecodes.com'
+youtube: 'https://www.youtube.com/channel/UCOQw7W7My3SJXEO50rwp1_w'
 ---
 
 ## About Me
