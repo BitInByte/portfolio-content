@@ -4,7 +4,7 @@ sourceLink: 'https://github.com/BitInByte/portfolioV2'
 liveLink: 'https://www.jopecodes.dev'
 projectNr: 6
 keyword: 'projects'
-remoteImage: https://github.com/BitInByte/portfolioV2/blob/development/thumbnail.png?raw=true
+remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project6.png?raw=true
 stack:
   - 'Vue'
   - 'Gridsome'
