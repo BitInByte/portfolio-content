@@ -47,6 +47,7 @@ title: 'Stack'
 - SQL
 - NoSQL
 - GraphQl
+- Apollo
 - Spring
 
 ---
