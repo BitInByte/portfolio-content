@@ -1,7 +1,7 @@
 ---
 title: 'My Personal Portfolio'
 sourceLink: 'https://github.com/BitInByte/GatsbyTypescriptPortfolio'
-liveLink: 'https://www.jopecodes.com'
+liveLink: 'https://quirky-euclid-59c0c2.netlify.app'
 projectNr: 4
 keyword: 'projects'
 remoteImage: https://github.com/BitInByte/portfolio-content/blob/main/Projects/project4.png?raw=true
