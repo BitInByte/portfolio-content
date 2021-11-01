@@ -21,4 +21,4 @@ My main focus in on working with **strongly typed** and fully **OOP** technologi
 
 I am currently **studying software development** in **Anglia Ruskin University** where I am in the last year of the course.
 
-_"If something's important enough, you should try. Even if the probable outcome is failure."_ Elon Musk
+_"If something's important enough, you should try. Even if the probable outcome is failure."_ - Elon Musk
