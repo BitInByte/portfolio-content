@@ -11,7 +11,7 @@ youtube: 'https://www.youtube.com/channel/UCOQw7W7My3SJXEO50rwp1_w'
 
 ## About Me
 
-Hello, nice to meet you 👋🏽!
+Hello, nice to meet you 👋🏽 !
 
 I'm João Pedro and I'm actually living in the UK.
 
